@@ -1,0 +1,88 @@
+body {
+  min-width: 100%;
+  min-height: 100%;
+  background-color: black;
+}
+
+ul {
+    font-family: Roboto Condensed, sans-serif;
+    font-size: 14px;
+    margin-left: 0;
+    padding: 0;
+    list-style: none;
+	position: relative;
+	float: left;
+	left: 50%;
+	text-decoration: none;
+}
+ul li {
+    display: block;
+    position: relative;
+	float: left;
+	left: -50%;
+}
+li ul {
+    display: none;
+	
+}
+ul li a {
+    display: block;
+    text-decoration: none;
+	text-shadow: -2px -2px 6px #FFFFFF;
+    color: #ffffff;
+    padding: 5px 15px 5px 15px;
+    background: black;
+	text-align: center;
+    white-space: nowrap;
+}
+ul li a:hover {
+  background: black;
+  text-decoration: none;
+  color: black;
+  text-shadow:     -1px -1px 17px #FFFFFF,
+                          -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF;
+  
+}
+li:hover ul {
+    display: block;
+    position: absolute;
+	text-shadow: -6px -6px 9px #FFFFFF;
+}
+li:hover li {
+    float: none;
+    font-size: 14px;
+}
+li:hover a { background: black; }
+li:hover li a:hover {
+    background: black;
+	text-shadow:   -1px -1px 17px #FFFFFF,
+                          -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF,
+						  -1px -1px 17px #FFFFFF;
+	color: black;
+	text-decoration: none;
+						
+}
+
+h1 {
+  text-align: center;
+  color: #FFFFFF;
+  text-shadow: -2px -2px 6px #FFFFFF;
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 15px;
+  font-weight: 0;
+  text-decoration: none;
+  padding-top: 100px;
+}
