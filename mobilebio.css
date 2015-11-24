@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+ <head>
+   <link rel="stylesheet" href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/bootstrap.css">
+   <link rel="stylesheet" href="mobilebio.css">
+ </head>
+   <body>
+    <div class="fullcont">
+	  <a href="#" target="_self">
+		 <img src="file://localhost/C:/Users/Ruben/Pictures/viierpicture/viierwideb.jpg" alt="pic" style="width: 100%; height: 150px;">
+	  </a>
+	</div>
+    <ul id="menu">
+     <li><a href="#">BIO</a>
+       <ul>
+          <li><a href="#">HOME</a></li>
+          <li><a href="#">PHOTOS</a></li>
+          <li><a href="#">EVENTS</a></li>
+		  <li><a href="#">NEWS</a></li>
+		  <li><a href="#">VIDEOS</a></li>
+		  <li><a href="#">STORE</a></li>
+      </ul>
+	  <h1>VIIER is an up and coming progressive house group based out of Southern California. The group is comprised of a Latin trio looking to make their mark in the dance music scene and provide a voice for their underrepresented Latin American community. 
+
+The trio utilizes elegant melodies infused with explosive drums and energetic bass lines. Their production process is deeply influenced by Latin culture and their Southern California upbringing. 
+
+VIIER draws inspiration from the ideal of creating your destiny and charting your own path no matter where your'e from, your situation, or who you are.</h1>
+    
+    </li>
+   </ul>
+
+</html>
