@@ -10,10 +10,10 @@ ul {
     margin-left: 0;
     padding: 0;
     list-style: none;
-	position: relative;
-	float: left;
-	left: 50%;
-	text-decoration: none;
+    position: relative;
+    float: left;
+    left: 50%;
+    text-decoration: none;
 }
 ul li {
     display: block;
@@ -28,11 +28,11 @@ li ul {
 ul li a {
     display: block;
     text-decoration: none;
-	text-shadow: -2px -2px 6px #FFFFFF;
+    text-shadow: -4px -4px 9px #FFFFFF;
     color: #ffffff;
     padding: 5px 15px 5px 15px;
     background: black;
-	text-align: center;
+    text-align: center;
     white-space: nowrap;
 }
 ul li a:hover {
