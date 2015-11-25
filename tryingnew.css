@@ -28,7 +28,8 @@ li ul {
 ul li a {
     display: block;
     text-decoration: none;
-    text-shadow: 4px -4px 9px #FFFFFF;
+    text-shadow: 4px -4px 9px #FFFFFF,
+    		 -4px 4px 9px #FFFFFF;
     color: #ffffff;
     padding: 5px 15px 5px 15px;
     background: black;
