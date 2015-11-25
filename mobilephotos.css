@@ -88,11 +88,10 @@ li:hover li a:hover {
 
 #im1 {
   text-align: center;
+  padding-bottom: 10%;
 }
 
 #im2 {
-  top: 10%;
-  bottom: -10%;
   text-align: center;
 }
 
