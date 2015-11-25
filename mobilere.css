@@ -84,12 +84,11 @@ li:hover li a:hover {
 h1 {
   position: absolute;
   text-align: justify;
-  margin-left: -175%;
-  margin-right: -175%;
   color: #FFFFFF;
   text-shadow: -2px -2px 6px #FFFFFF;
   font-family: 'Roboto Condensed', sans-serif;
   font-size: 26px;
+  padding-top: 125px;
   font-weight: 0;
   text-decoration: none;
   line-height: 210%;
