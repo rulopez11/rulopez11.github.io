@@ -82,7 +82,10 @@ li:hover li a:hover {
   position: relative;
   text-align: center;
   background-size: cover;
-  left: 5%;
 
+}
+
+#im1 {
+  left: -5%;
 }
 
