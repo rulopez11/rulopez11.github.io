@@ -39,15 +39,15 @@ ul li a:hover {
   background: black;
   text-decoration: none;
   color: black;
-  text-shadow:     -1px -1px 17px #FFFFFF,
-                          -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF,
-						  -1px -1px 17px #FFFFFF;
+  text-shadow:     0px 0px 23px #FFFFFF,
+                          0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF,
+						  0px 0px 23px #FFFFFF;
   
 }
 li:hover ul {
