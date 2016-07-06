@@ -22,7 +22,8 @@ ul li {
 	left: -50%;
 }
 li ul {
-    display: none;
+    display: block;
+    position; absolute
 	
 }
 ul li a {
@@ -49,6 +50,11 @@ ul li a:hover {
 						  0px 0px 23px #FFFFFF,
 						  0px 0px 23px #FFFFFF;
   
+}
+
+#firstthing {
+    position: absolute;
+    display: none;
 }
 li:hover ul {
     display: block;
