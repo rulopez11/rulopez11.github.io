@@ -14,6 +14,7 @@ ul {
     float: left;
     left: 50%;
     text-decoration: none;
+    background-color: red;
 }
 ul li {
     display: block;
